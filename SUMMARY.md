@@ -2,11 +2,11 @@
 
 * [はじめに](README.md)
 
-## Linuxの環境構築
+## Linuxの環境構築 <a id="installing-linux"></a>
 
-* [Linuxディストリビューション](linuxno/linuxdisutoribyshon.md)
-* [仮想化ソフトウェア](linuxno/sofutowea.md)
-* [VMWare Workstation Pro](linuxno/vmware-workstation-pro.md)
-* [Hyper-V](linuxno/hyper-v.md)
-* [VirtualBox](linuxno/virtualbox.md)
+* [Linuxディストリビューション](installing-linux/linux-distro.md)
+* [仮想化ソフトウェア](installing-linux/hypervisor.md)
+* [VMWare Workstation Pro](installing-linux/vmware-workstation-pro.md)
+* [Hyper-V](installing-linux/hyper-v.md)
+* [VirtualBox](installing-linux/virtualbox.md)
 
