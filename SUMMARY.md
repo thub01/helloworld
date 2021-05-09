@@ -10,7 +10,17 @@
 * [Hyper-V](installing-linux/hyper-v.md)
 * [VirtualBox](installing-linux/virtualbox.md)
 
+## login/logout
+
+* [GUI](login-logout/gui.md)
+* [SSH](login-logout/ssh.md)
+
 ## ディレクトリ <a id="directory"></a>
 
-* [Untitled](directory/untitled.md)
+* [cd](directory/untitled.md)
+* [ls](directory/ls.md)
+
+## basic/commands
+
+* [Untitled](basic-commands/untitled.md)
 
